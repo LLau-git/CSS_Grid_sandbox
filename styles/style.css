@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background: center no-repeat url(img/austin-schmid-unsplash.jpg);
+    background: center no-repeat url(img/);
     background-size: 100% 100%;
     background-size: cover;
     /* height: 300vh; */
